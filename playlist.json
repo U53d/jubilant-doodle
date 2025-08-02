@@ -1,0 +1,29 @@
+{
+	"name": "My IPTV Playlist",
+	"author": "User",
+	"image": "",
+	"groups": [
+		{
+			"name": "Sports",
+			"image": "",
+			"stations": [
+				{
+					"name": "Siamsport 1",
+					"image": "https://www.dropbox.com/scl/fi/5pvr19c7bokoy2vzu1deh/siamsport-1.png?rlkey=ekwohtc95kdb83dt8125hqca0&dl=1",
+					"url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-1/chunks.m3u8",
+					"referer": "https://demo-live.siamzeed.com/",
+					"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+					"playInNatPlayer": true
+				},
+				{
+					"name": "BEIN 1",
+					"image": "https://www.dropbox.com/scl/fi/5pvr19c7bokoy2vzu1deh/bein-1th.png?rlkey=ekwohtc95kdb83dt8125hqca0&dl=1",
+					"url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-6/chunks.m3u8",
+					"referer": "https://demo-live.siamzeed.com/",
+					"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+					"playInNatPlayer": true
+				}
+			]
+		}
+	]
+}
