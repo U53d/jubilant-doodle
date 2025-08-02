@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="Sports",Siamsport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
+https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-1/chunks.m3u8
