@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-1/chunks.m3u8
-#EXTINF:-2 tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0" group-title="Sports",MonoMax 1
+#EXTINF:-2 tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0" group-title="Sports",MonoMax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 https://dolive.thaim3u.com/demo-live-siamzeed-com/football-play-1/chunks.m3u8
