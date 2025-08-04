@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="Sports",Siamsport 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sports",Siamsport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-1/chunks.m3u8
