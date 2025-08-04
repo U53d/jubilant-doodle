@@ -7,4 +7,23 @@ https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-1/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 https://dolive.thaim3u.com/demo-live-siamzeed-com/football-play-1/chunks.m3u8
-
+#EXTINF:-3 tvg-logo="http://tvsmagazine.com/images/channels/lrg_097.jpg" group-title="Sports",Truesport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
+https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-4/chunks.m3u8
+#EXTINF:-4 tvg-logo="http://tvsmagazine.com/images/channels/lrg_123.jpg" group-title="Sports",Truesport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
+https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-5/chunks.m3u8
+#EXTINF:-5 tvg-logo="http://tvsmagazine.com/images/channels/lrg_184.jpg" group-title="Sports",Truesport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
+https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-6/chunks.m3u8
+#EXTINF:-6 tvg-logo="http://tvsmagazine.com/images/channels/lrg_056.jpg" group-title="Sports",Truesport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
+https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-8/chunks.m3u8
+#EXTINF:-7 tvg-logo="http://tvsmagazine.com/images/channels/lrg_105.jpg" group-title="Sports",Truesport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
+https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-9/chunks.m3u8
