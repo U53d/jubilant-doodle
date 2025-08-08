@@ -3,11 +3,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-1/chunks.m3u8
-#EXTINF:-2 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305" group-title="Sports",Beinsport 1
+#EXTINF:-2 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305" group-title="Sports",Beinsport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-2/chunks.m3u8
-#EXTINF:-3 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="Sports",Beinsport 1
+#EXTINF:-3 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="Sports",Beinsport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-3/chunks.m3u8
